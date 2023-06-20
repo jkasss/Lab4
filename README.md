@@ -7,6 +7,9 @@ Esta es una propuesta que se puede usar para una revista digital, sencilla y pra
 ###### Archivo/estructura HTML
 ###### Propiedades CSS
 ###### Interactividad y funcionalidades JS (JavaScript)
+
+### Objetivos tecnicos:
+
 &rarr; Garantiza buena funcionalidad en la pagina web
 
 &rarr; Se adapta a cualquier dispositivo
